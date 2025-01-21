@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Tracking flights in real time is made straightforward by leveraging structured JSON data provided by modern APIs. This tutorial demonstrates how to build a flight tracking application using **The OpenSky Network API** for fetching state vector data and **LightningChart Python** for crafting dynamic, real-time visualizations.
+Tracking flights in real time is made straightforward by leveraging structured JSON data provided by modern APIs. This project demonstrates how to build a flight tracking application using **The OpenSky Network API** for fetching state vector data and **LightningChart Python** for crafting dynamic, real-time visualizations.
 
 ### What type of data is tracked?
 
